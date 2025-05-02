@@ -1,61 +1,40 @@
-# 👋 Hi there, I'm a Full-Stack & AI Engineer! 🚀
+# 👋 Hi, I'm a Full-Stack & AI Engineer 🚀
 
-産業用ロボット分野でフルスタックからAIまで手掛けています。  
-機械学習・深層強化学習を活用した制御システム開発や、アプリケーション構築、ネットワーク設計など幅広く経験があります。
+『アイデアをコードに変え、テクノロジーで日常を豊かに』  
+産業用ロボットのAI制御から、リアルタイム音声処理、ゲーム理論応用まで、幅広く手掛けています。
 
 ---
 
 ## 💻 技術スタック
-### フロントエンド & バックエンド
-- **Next.js / Vue.js**
-- **TypeScript / JavaScript**
-- **Rust / Python / C・C++**
-
-### AI・機械学習・深層強化学習
-- **TensorFlow / Optuna**
-- **Transformer / BERT / DeBERTaV3 / YOLO / face_recognition**
-- **PPO / R2D2 / Apex / DQN / rllib**
-- **Gym環境のカスタム構築**
-- **tf-idf / k-means クラスタリング / RAG**
-
-### ゲーム理論・探索アルゴリズム
-- **Minimax / Alpha-beta pruning**
-- **Iterative Deepening / MTD(f)**
-- **指し手順序付け / 盤面情報の最適化**
-- **評価関数の工夫 / 千日手回避**
-- **マルチスレッドによるリアルタイム予測**
-
-### インフラ・DevOps・ネットワーク
-- **Arch Linux / Ubuntu(Debian)**
-- **AWS / Cloudflare Pages**
-- **systemd / cron / certbot**
-- **Vyos / OpenWrt / AdGuard / ufw**
-- **IPv6 dual-stack lite (transix, MAP-E)**
-- **nginx / apache / SQLite / MariaDB**
-- **プロトコル設計・シミュレーション・論文執筆経験**
+- **Languages:** TypeScript | Python | Rust | C/C++
+- **Web:** Next.js | Vue.js | TailwindCSS | Cloudflare Pages
+- **AI:** TensorFlow | PyTorch | PPO/DQN | Transformers (BERT, DeBERTa)
+- **Infra:** Arch Linux | Ubuntu | AWS | nginx | Vyos | OpenWrt
+- **Others:** Appium | Gym | tf-idf | k-means | RAG
 
 ---
 
-## 🎯 趣味 & 興味分野
-- 📱 **アプリ開発**
-- 🎾 **テニス**
-- 🎹 **ピアノ**
-- 🎧 **オーディオ (Volumio, FFT分析)**
-- 📖 **TeX**
-- 🐧 **Arch Linux カスタマイズ**
+## 🚀 主なプロジェクト
+- **🦾 AIベース産業用ロボット制御**
+  - 深層強化学習 (PPO, R2D2) によるリアルタイム制御
+- **🎙️ リアルタイム音声変換（Rust / MMVC）**
+  - WebRTC対応・遅延100ms以下のブラウザ型VCを構築
+- **♟️ 強化学習を活用したゲームAI**
+  - Minimax・Alpha-beta法・マルチスレッド並列処理による高性能化
 
 ---
 
-## 🛠 最近のプロジェクト例
-- 深層強化学習を利用した産業用ロボット制御システムの開発
-- マルチスレッド探索アルゴリズムによるゲームAI開発
-- 音声合成（VOICEVOX）を活用したインタラクティブアプリ構築
-- 最適化アルゴリズムを用いた通信プロトコルの研究・実装
+## 🎯 趣味 & 好きなこと
+- 📱 アプリ開発（ユーザー体験重視）
+- 🎹 ピアノ（初心者）
+- 🎾 テニス
+- 🎧 オーディオ工学（Volumio / FFT解析）
+- 🐧 Arch Linux（最高のカスタマイズ性を追求）
 
 ---
 
-### 📫 Connect with me!
-新しい技術や面白いアイデアにいつでも興味があります！  
-気軽に連絡やフォローしてください。
+## 📫 Connect with me!
+新しいプロジェクトやコラボレーションは大歓迎！  
+気軽に連絡してください！
 
 Happy Coding! 🚀✨
