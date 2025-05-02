@@ -11,7 +11,7 @@
 ## 💻 技術スタック
 - **Languages:** TypeScript | Python | Rust | C/C++
 - **Web:** Next.js | Vue.js | TailwindCSS | Bootstrap | Cloudflare Pages
-- **AI:** TensorFlow | PyTorch | YOLO | face_recognition | PPO/DQN | R2D2 | Transformers
+- **AI:** TensorFlow | PyTorch | YOLO | face_recognition | PPO/DQN/R2D2 | Transformers
 - **Infra:** Arch Linux | Ubuntu | AWS | nginx | Vyos | OpenWrt | 自作ルータ | 自作サーバ
 - **Others:** Appium | Gym | tf-idf | k-means | RAG | SOLA | ONNX Runtime
 
