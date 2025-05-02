@@ -49,6 +49,8 @@
   - 信州の寒い冬の必須アイテム「逃げるコタツ」を制作
   - 人感センサーとタイマーでコタツのあたりすぎを防止
   - 距離センサーによる衝突防止機能を実装
+  - フロントエンド（Vue.js）とバックエンド（TypeScript）の実装 [→](https://github.com/escaping-kotatsu/escaping-kotatsu-console)
+  - Raspberry Pi Zero用の制御コード [→](https://github.com/escaping-kotatsu/escaping-kotatsu-pizero)
 
 ---
 
