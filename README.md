@@ -78,7 +78,7 @@ AIとフルスタック開発の両輪で、ユーザー体験を重視した技
   - カスタマイズ可能なバッファサイズとカットオフフィルター
   - 詳細な遅延モニタリング機能
 
-- **♟️ 分散強化学習を活用したゲームAI** `[Python, Gymnasium, Appium, OpenCV]` [→](https://github.com/kuuchan-code/dtb-rl2)
+- **♟️ 分散強化学習を活用したゲームAI** `[Python, Gymnasium, Appium, OpenCV]` [→](https://github.com/kuuchan-code/AnimalTower-RL)
   - 実機スマートフォンを用いた分散深層強化学習システムを構築
   - 独自のGym環境を開発し、実機操作を強化学習に統合
   - OpenCVによるテンプレートマッチングで画面認識を実装
