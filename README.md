@@ -13,7 +13,7 @@
 - **Web:** Next.js | Vue.js | TailwindCSS | Bootstrap | Cloudflare Pages
 - **AI:** TensorFlow | PyTorch | YOLO | face_recognition | PPO/DQN/R2D2 | Transformers | Ray RLlib | Gymnasium
 - **Infra:** Arch Linux | Ubuntu | AWS | nginx | Vyos | OpenWrt | 自作ルータ | 自作サーバ
-- **Others:** Appium | OpenCV | Selenium | tf-idf | k-means | RAG | SOLA | ONNX Runtime
+- **Others:** Appium | OpenCV | Selenium | tf-idf | k-means | RAG | SOLA | ONNX Runtime | RustFFT | SpeexDSP | CPAL
 
 ---
 
@@ -27,14 +27,16 @@
 
 - **🎙️ AIリアルタイム音声変換クライアント** `[Rust, ONNX Runtime, MMVC]` [→](https://github.com/kuuchan-code/MMVC_Client)
   - MMVC（Many to Many Voice Conversion）の高速化実装
-  - ONNX Runtimeによる効率的な推論処理
+  - ONNX Runtimeによる効率的な推論処理（CUDA対応）
   - RustFFTとSpeexDSPによる高品質な音声処理
   - egui/eframeによる軽量で高速なGUI実装
   - クロスプラットフォーム対応（Windows/Linux）
-  - 遅延を100ms程度削減し、より自然な音声変換を実現
   - SOLAアルゴリズムによるスムーズな音声クロスフェード
+  - リアルタイム優先度設定による低遅延処理
+  - カスタマイズ可能なバッファサイズとカットオフフィルター
+  - 詳細な遅延モニタリング機能
 
-- **♟️ 分散強化学習を活用したゲームAI** `[Python, PyTorch, Appium, OpenCV]` [→](https://github.com/kuuchan-code/dtb-rl2)
+- **♟️ 分散強化学習を活用したゲームAI** `[Python, Gymnasium, Appium, OpenCV]` [→](https://github.com/kuuchan-code/dtb-rl2)
   - 実機スマートフォンを用いた分散深層強化学習システムを構築
   - 独自のGym環境を開発し、実機操作を強化学習に統合
   - OpenCVによるテンプレートマッチングで画面認識を実装
