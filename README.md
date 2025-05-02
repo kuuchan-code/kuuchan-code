@@ -57,6 +57,16 @@ AIとフルスタック開発の両輪で、ユーザー体験を重視した技
   - 従来プロトコルと比較して送信タイミング確立時間を短縮
   - 修士論文として「強化学習を採用した無線センサーネットワークの送信タイミング決定時間短縮方法の研究」を執筆
 
+- **🏆 Web×IoT メイカーズチャレンジ PLUS 2021 最優秀賞** `[Vue.js, Bootstrap]` [→](https://webiotmakers.github.io/2021/shinshu/)
+  - チーム開発でフロントエンド開発を担当
+  - Vue.jsとBootstrapを使用したモダンなUI実装
+  - レスポンシブデザインによる多デバイス対応
+  - 信州の寒い冬の必須アイテム「逃げるコタツ」を制作
+  - 人感センサーとタイマーでコタツのあたりすぎを防止
+  - 距離センサーによる衝突防止機能を実装
+  - フロントエンド（Vue.js）とバックエンド（TypeScript）の実装 [→](https://github.com/escaping-kotatsu/escaping-kotatsu-console)
+  - Raspberry Pi Zero用の制御コード [→](https://github.com/escaping-kotatsu/escaping-kotatsu-pizero)
+
 - **🎙️ AIリアルタイム音声変換クライアント** `[Rust, ONNX Runtime, MMVC]` [→](https://github.com/kuuchan-code/MMVC_Client)
   - MMVC（Many to Many Voice Conversion）の高速化実装
   - ONNX Runtimeによる効率的な推論処理（CUDA対応）
@@ -75,16 +85,6 @@ AIとフルスタック開発の両輪で、ユーザー体験を重視した技
   - AppiumとSeleniumによる実機の自動操作
   - 複数台の実機を並列で動作させ学習効率を向上
   - 画像処理による状態認識と報酬設計の最適化
-
-- **🏆 Web×IoT メイカーズチャレンジ PLUS 2021 最優秀賞** `[Vue.js, Bootstrap]` [→](https://webiotmakers.github.io/2021/shinshu/)
-  - チーム開発でフロントエンド開発を担当
-  - Vue.jsとBootstrapを使用したモダンなUI実装
-  - レスポンシブデザインによる多デバイス対応
-  - 信州の寒い冬の必須アイテム「逃げるコタツ」を制作
-  - 人感センサーとタイマーでコタツのあたりすぎを防止
-  - 距離センサーによる衝突防止機能を実装
-  - フロントエンド（Vue.js）とバックエンド（TypeScript）の実装 [→](https://github.com/escaping-kotatsu/escaping-kotatsu-console)
-  - Raspberry Pi Zero用の制御コード [→](https://github.com/escaping-kotatsu/escaping-kotatsu-pizero)
 
 ---
 
