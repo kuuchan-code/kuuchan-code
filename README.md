@@ -9,7 +9,7 @@
 ---
 
 ## 💻 技術スタック
-- **Languages:** TypeScript | Python | Rust | C/C++
+- **Languages:** Python | C/C++ | Rust | TypeScript
 - **Web:** Next.js | Vue.js | TailwindCSS | Bootstrap | Cloudflare Pages
 - **AI:** TensorFlow | PyTorch | YOLO | face_recognition | PPO/DQN/R2D2 | Transformers | Ray RLlib | Gymnasium
 - **Infra:** Arch Linux | Ubuntu | AWS | nginx | Vyos | OpenWrt | 自作ルータ | 自宅サーバ
