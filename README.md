@@ -1,19 +1,40 @@
-# 👋 Hi, I'm a Full-Stack & AI Engineer 🚀
+# 👋 Hi, I'm a Full-Stack & AI Engineer ��
 
 『技術で日常に小さな幸せを』  
-フルスタックエンジニアとしての幅広い技術力と、AIの専門性を活かし、
-フロントエンドからバックエンド、CLIツール開発、ネットワーク構築まで。
-深層強化学習や音声変換AIなど、最先端のAI技術にも精通しています。
-趣味としても技術を追求し、幅広く深く手掛けています。
+AIとフルスタック開発の両輪で、ユーザー体験を重視した技術ソリューションを提供。
+深層強化学習から音声変換AIまで、最先端技術を実装し、実際のユースケースに落とし込むことを得意としています。
 
 ---
 
 ## 💻 技術スタック
 - **Languages:** Python | C/C++ | Rust | TypeScript
+  - Python: 機械学習/深層強化学習、データ分析
+  - C/C++: パフォーマンスクリティカルな処理、ハードウェア制御
+  - Rust: システムプログラミング、音声処理
+  - TypeScript: フロントエンド/バックエンド開発
+
 - **Web:** Next.js | Vue.js | TailwindCSS | Bootstrap | Cloudflare Pages
+  - モダンなフロントエンド開発
+  - サーバーレスアーキテクチャ
+  - レスポンシブデザイン
+
 - **AI:** TensorFlow | PyTorch | YOLO | face_recognition | PPO/DQN/R2D2 | Transformers | Ray RLlib | Gymnasium
+  - 深層強化学習による最適化
+  - コンピュータビジョン
+  - 自然言語処理
+  - 分散学習システム
+
 - **Infra:** Arch Linux | Ubuntu | AWS | nginx | Vyos | OpenWrt | 自作ルータ | 自宅サーバ
+  - クラウドインフラ構築
+  - ネットワーク設計/構築
+  - セキュリティ設定
+  - サーバー運用
+
 - **Others:** Appium | OpenCV | Selenium | tf-idf | k-means | RAG | SOLA | ONNX Runtime | RustFFT | SpeexDSP | CPAL
+  - 自動化テスト
+  - 画像処理
+  - 音声処理
+  - 機械学習パイプライン
 
 ---
 
