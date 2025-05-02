@@ -11,9 +11,9 @@
 ## 💻 技術スタック
 - **Languages:** TypeScript | Python | Rust | C/C++
 - **Web:** Next.js | Vue.js | TailwindCSS | Bootstrap | Cloudflare Pages
-- **AI:** TensorFlow | PyTorch | YOLO | face_recognition | PPO/DQN/R2D2 | Transformers | Ray RLlib
+- **AI:** TensorFlow | PyTorch | YOLO | face_recognition | PPO/DQN/R2D2 | Transformers | Ray RLlib | Gymnasium
 - **Infra:** Arch Linux | Ubuntu | AWS | nginx | Vyos | OpenWrt | 自作ルータ | 自作サーバ
-- **Others:** Appium | Gym | tf-idf | k-means | RAG | SOLA | ONNX Runtime | Gymnasium
+- **Others:** Appium | OpenCV | Selenium | tf-idf | k-means | RAG | SOLA | ONNX Runtime
 
 ---
 
@@ -34,12 +34,13 @@
   - 遅延を100ms程度削減し、より自然な音声変換を実現
   - SOLAアルゴリズムによるスムーズな音声クロスフェード
 
-- **♟️ 分散強化学習を活用したゲームAI** `[Python, PyTorch, Appium]` [→](https://github.com/kuuchan-code/dtb-rl2)
+- **♟️ 分散強化学習を活用したゲームAI** `[Python, PyTorch, Appium, OpenCV]` [→](https://github.com/kuuchan-code/dtb-rl2)
   - 実機スマートフォンを用いた分散深層強化学習システムを構築
   - 独自のGym環境を開発し、実機操作を強化学習に統合
   - OpenCVによるテンプレートマッチングで画面認識を実装
-  - Appium、R2D2を使って実スマホでゲームの自動学習
+  - AppiumとSeleniumによる実機の自動操作
   - 複数台の実機を並列で動作させ学習効率を向上
+  - 画像処理による状態認識と報酬設計の最適化
 
 - **🏆 Web×IoT メイカーズチャレンジ PLUS 2021 最優秀賞** `[Vue.js, Bootstrap]` [→](https://webiotmakers.github.io/2021/shinshu/)
   - Vue.jsとBootstrapでフロントエンドを開発
