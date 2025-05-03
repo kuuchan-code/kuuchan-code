@@ -58,7 +58,7 @@
   - 従来プロトコルと比較して送信タイミング確立時間を短縮
   - 修士論文として「強化学習を採用した無線センサーネットワークの送信タイミング決定時間短縮方法の研究」を執筆
 
-- **🏆 Web×IoT メイカーズチャレンジ PLUS 2021 最優秀賞 in 信州** `[Vue.js, Bootstrap]` [→](https://webiotmakers.github.io/2021/shinshu/)
+- **🏆 Web×IoT メイカーズチャレンジ PLUS 2021 in 信州 最優秀賞** `[Vue.js, Bootstrap]` [→](https://webiotmakers.github.io/2021/shinshu/)
   - チーム開発でフロントエンド開発を担当
   - Vue.jsとBootstrapを使用したモダンなUI実装
   - レスポンシブデザインによる多デバイス対応
