@@ -33,9 +33,6 @@ AIとフルスタック開発を駆使し、現実世界の課題解決に取り
   - チームで「逃げるコタツ」を制作。フロントエンド開発を担当し、快適な冬をサポート。
   [Console](https://github.com/escaping-kotatsu/escaping-kotatsu-console) | [PiZero](https://github.com/escaping-kotatsu/escaping-kotatsu-pizero)
 
-- **🎙️ AIリアルタイム音声変換クライアント** `[Rust, ONNX, egui]` [→](https://github.com/kuuchan-code/MMVC_Client)
-  - MMVCの高速実装。ONNX RuntimeとRustによる低遅延・高品質な音声変換を実現。クロスプラットフォーム対応。
-
 - **🗣️ Discordリアルタイム読み上げBot「usapyon」** `[Rust, VOICEVOX]` [→](https://github.com/kuuchan-code/usapyon)
   - DiscordのテキストをVOICEVOXでリアルタイム読み上げ。Rustで安定動作するBotを開発中。
 
