@@ -29,7 +29,7 @@ AIとフルスタック開発を駆使し、現実世界の課題解決に取り
   - 深層強化学習による自律分散型MACプロトコルを提案。送信タイミングを最適化し学会発表。
   (修士論文テーマ)
 
-- **🏆 Web×IoTメイカーズチャレンジ 最優秀賞** `[Vue.js, TypeScript]` [→](https://webiotmakers.github.io/2021/shinshu/)
+- **🏆 Web×IoTメイカーズチャレンジ 信州地区 最優秀賞** `[Vue.js, TypeScript]` [→](https://webiotmakers.github.io/2021/shinshu/)
   - チームで「逃げるコタツ」を制作。フロントエンド開発を担当し、快適な冬をサポート。
   [Console](https://github.com/escaping-kotatsu/escaping-kotatsu-console) | [PiZero](https://github.com/escaping-kotatsu/escaping-kotatsu-pizero)
 
