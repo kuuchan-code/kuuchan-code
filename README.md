@@ -37,7 +37,7 @@ AIとフルスタック開発を駆使し、現実世界の課題解決に取り
   - DiscordのテキストをVOICEVOXでリアルタイム読み上げ。Rustで安定動作するBotを開発中。
 
 - **♟️ 分散強化学習ゲームAI** `[Python, Appium, OpenCV]` [→](https://github.com/kuuchan-code/AnimalTower-RL)
-  - 実機スマホを用いた分散強化学習システムを構築。画面認識と自動操作でゲームAIを学習。
+  - 実機スマホを用いた分散強化学習システムを構築。画面認識と自動操作でゲームをAIで学習。
 
 ---
 
