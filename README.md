@@ -20,7 +20,7 @@ AIやフルスタック開発など多様な技術を組み合わせ、現実の
 - **Languages:** Python | C/C++ | Rust | TypeScript
   - Python: 機械学習/深層強化学習、データ分析
   - C/C++: パフォーマンスクリティカルな処理
-  - Rust: システムプログラミング、音声処理
+  - Rust: システムプログラミング、音声処理、Bot開発
   - TypeScript: フロントエンド/バックエンド開発
 
 - **Web:** Next.js | Vue.js | TailwindCSS | Bootstrap | Cloudflare Pages
@@ -40,10 +40,10 @@ AIやフルスタック開発など多様な技術を組み合わせ、現実の
   - セキュリティ設定
   - サーバー運用
 
-- **Others:** Appium | OpenCV | Selenium | tf-idf | k-means | RAG | SOLA | ONNX Runtime | RustFFT | SpeexDSP | CPAL
+- **Others:** Appium | OpenCV | Selenium | tf-idf | k-means | RAG | SOLA | ONNX Runtime | RustFFT | SpeexDSP | CPAL | VOICEVOX
   - 自動化テスト
   - 画像処理
-  - 音声処理
+  - 音声処理 (合成・変換)
   - 機械学習パイプライン
 
 ---
@@ -77,6 +77,12 @@ AIやフルスタック開発など多様な技術を組み合わせ、現実の
   - リアルタイム優先度設定による低遅延処理
   - カスタマイズ可能なバッファサイズとカットオフフィルター
   - 詳細な遅延モニタリング機能
+
+- **🗣️ Discordリアルタイム読み上げBot「usapyon」** `[Rust, VOICEVOX]` [→](https://github.com/kuuchan-code/usapyon)
+  - DiscordのテキストメッセージをVOICEVOXエンジンと連携し、リアルタイムで音声合成して読み上げ
+  - Rustによるメモリセーフかつ高速・安定な動作を実現
+  - 各サーバーで1つのボイスチャンネルの読み上げに対応
+  - ボイスチャット体験をより楽しく、アクセシブルにすることを目指す
 
 - **♟️ 分散強化学習を活用したゲームAI** `[Python, Gymnasium, Appium, OpenCV]` [→](https://github.com/kuuchan-code/AnimalTower-RL)
   - 実機スマートフォンを用いた分散深層強化学習システムを構築
