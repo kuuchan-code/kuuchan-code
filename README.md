@@ -33,7 +33,7 @@ AIとフルスタック開発を駆使し、現実世界の課題解決に取り
   - チームで「逃げるコタツ」を制作。フロントエンド開発を担当し、快適な冬をサポート。
   [Console](https://github.com/escaping-kotatsu/escaping-kotatsu-console) | [PiZero](https://github.com/escaping-kotatsu/escaping-kotatsu-pizero)
 
-- **🗣️ Discordリアルタイム読み上げBot「usapyon」** `[Rust, VOICEVOX]` [→](https://github.com/dasokuu/usapyon/tree/ikeda)
+- **🗣️ Discordリアルタイム読み上げBot「usapyon」** `[Rust, VOICEVOX]` [→](https://github.com/dasokuu/usapyon/)
   - DiscordのテキストをVOICEVOXでリアルタイム読み上げ。Rustで安定動作するBotを開発中。
 
 - **♟️ 分散強化学習ゲームAI** `[Python, Appium, OpenCV]` [→](https://github.com/kuuchan-code/AnimalTower-RL)
